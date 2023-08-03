@@ -14,7 +14,7 @@ Decimal number can be implemented as a four-element array of 32-bit signed integ
 typedef struct 
 {
     int bits[4];
-} s21_decimal;
+} decimal;
 ```
 
 ## Install
